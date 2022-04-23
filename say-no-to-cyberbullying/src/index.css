@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap");
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+html {
+    background-image: linear-gradient(180deg, #0e0043, #460b9f, #0e0043);
+}
+
+.App {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.LOGO {
+    margin-left: 1%;
+    width: 3rem;
+    height: 3rem;
+}
+
+.Header > h1 {
+    font-size: 2.5rem;
+}
+
+.Header {
+    display: flex;
+    width: 100vw;
+}
+
+.Header > .title {
+    width: 50%;
+    align-items: flex-start;
+}
+
+.Header > .Options {
+    width: 50%;
+    justify-content: flex-end;
+    display: flex;
+}
+
+.Header > .Options > button {
+    margin-right: 3%;
+}
+
+hr {
+    background-color: white;
+}
+
+button {
+    color: white;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-family: "Source Sans Pro", sans-serif;
+
+    transition: 350ms;
+}
+
+button:hover {
+    color: rgb(172, 150, 239);
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Home > .center > img {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 65%;
+}
+
+.title-text {
+    color: white;
+    font-size: 1.42em;
+}
+
+.description-text {
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.Statistics {
+    margin-bottom: 5%;
+}
+
+progress {
+    accent-color: rgb(31, 17, 121);
+    width: 37%;
+    height: 30px;
+    border-radius: 0.001;
+}
+
+label {
+    color: white;
+    font-size: 2rem;
+    margin-right: 0.25%;
+}
+
+.Games {
+    height: 87.5vh;
+}
+
+a {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.Games > .center {
+    height: 43.75vh;
+    width: 100vw;
+}
+
+.Games > .center > a > button {
+    background-color: #240751;
+    color: white;
+    padding: 1.6942vw 6.942vw;
+
+    border-radius: 10px;
+    font-size: xx-large;
+}
