@@ -12,15 +12,25 @@ const What_Are_Reasons =
     " have a hard time empethizing.";
 
 const Who_Are_The_Victims =
-    "Most victims are children but occasionally it is adults. Most times the bully will know the victim. But this is not true every time. Sometimes it is also based if the victim has made some posts or other activity that has angered the bully.";
+    "Most victims are children but occasionally it is adults." +
+    "Most times the bully will know the victim. But this is not true every time." +
+    "Sometimes it is also based if the victim has made some posts or other activity that has angered the bully.";
 const what_Are_effects =
-    "It can affect there mental life by causing anxiety, depression, low self-esteem. It also effects there social because they are not likely to make friends. It can take a toll on there physical because they are not likly to eat food.";
+    "It can affect there mental life by causing anxiety, depression, low self-esteem. " +
+    "It also effects there social because they are not likely to make friends." +
+    "It can take a toll on there physical because they are not likly to eat food.";
 
 const SMART =
-    "The first thing that you should do is know your boundries which can be explained by the SMART principle (Specific, Measurable, Achievable, Realistic and time bonded). The second thing that you can do is Adjust you settings. You can stop more threats before they start, by tweaking the settings. You should never respond and also stop, block and report. You should always belive in yourself and try and talk with someone.";
+    "The first thing that you should do is know your boundries which can be explained by" + 
+    "the SMART principle (Specific, Measurable, Achievable, Realistic and time bonded)." + 
+    "The second thing that you can do is Adjust you settings. You can stop more threats before" +
+    "they start, by tweaking the settings. You should never respond and also stop, block and report."+ 
+    "You should always belive in yourself and try and talk with someone.";
 
 const what_should_you_do =
-    "If you are getting cyber bullied then you should get help, and try to talk to somebody. You can also just report the person or report the post and take evidence. Simple screenshots help when you need to prove it to someone.";
+    "If you are getting cyber bullied then you should get help, and try to talk to somebody." + 
+    "You can also just report the person or report the post and take evidence."+
+    " Simple screenshots help when you need to prove it to someone.";
 
 export {
     why_Is_Cyber_Bullying,
